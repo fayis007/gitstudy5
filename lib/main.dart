@@ -60,8 +60,8 @@ class _fayismkState extends State<fayismk> {
               color: Colors.lightGreen,
             ),
             Container(
-              width: 400,
-              height: 300,
+              width: 300,
+              height: 301,
               color: Colors.yellow,
             ),
           ],
